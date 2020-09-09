@@ -1,0 +1,47 @@
+# Compile of AAC2M4H2.v failed with 1 errors.
+# Compile of AAC2M4H2_tb.vp was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of AAC2M4H2.v was successful.
+vsim -gui work.AAC2M4H2_tb
+# vsim -gui work.AAC2M4H2_tb 
+# Start time: 02:48:46 on Sep 08,2020
+# Loading work.AAC2M4H2_tb
+# Loading work.FIFO8x9
+# Trace back: Error QStructure::sort: invalid command name ""
+#   <6:proc:11: ::QStructure::sort .main_pane.structure 0 ascending
+#   <5:eval:1: ::QStructure::structsort .main_pane.structure 0 ascending
+#   <4:eval:1: ::namespace inscope ::QStructure {structsort .main_pane.structure} 0 ascending
+#   >3:proc:26: ::.main_pane.structure.interior.cs.body.struct sort 0 ascending
+#   >2:proc:10: ::.main_pane.structure.interior.cs.body.struct _initializeSortColumn
+#   <1:eval:1: ::namespace inscope ::vsimwidgets::Hierarchy {::.main_pane.structure.interior.cs.body.struct _initializeSortColumn}
+add wave -position end  sim:/AAC2M4H2_tb/delay
+add wave -position end  sim:/AAC2M4H2_tb/clk_period
+add wave -position end  sim:/AAC2M4H2_tb/clk_tb
+add wave -position end  sim:/AAC2M4H2_tb/rst_tb
+add wave -position end  sim:/AAC2M4H2_tb/RdPtrClr_tb
+add wave -position end  sim:/AAC2M4H2_tb/WrPtrClr_tb
+add wave -position end  sim:/AAC2M4H2_tb/RdInc_tb
+add wave -position end  sim:/AAC2M4H2_tb/WrInc_tb
+add wave -position end  sim:/AAC2M4H2_tb/rden_tb
+add wave -position end  sim:/AAC2M4H2_tb/wren_tb
+add wave -position end  sim:/AAC2M4H2_tb/DataIn_tb
+add wave -position end  sim:/AAC2M4H2_tb/DataOut_tb
+add wave -position end  sim:/AAC2M4H2_tb/i
+add wave -position end  sim:/AAC2M4H2_tb/j
+add wave -position end  sim:/AAC2M4H2_tb/k
+add wave -position end  sim:/AAC2M4H2_tb/ErrorCount
+add wave -position end  sim:/AAC2M4H2_tb/score
+add wave -position end  sim:/AAC2M4H2_tb/FirstError
+add wave -position end  sim:/AAC2M4H2_tb/ValidCheck
+add wave -position end  sim:/AAC2M4H2_tb/testresults
+add wave -position end  sim:/AAC2M4H2_tb/vector
+add wave -position end  sim:/AAC2M4H2_tb/address
+add wave -position end  sim:/AAC2M4H2_tb/data
+add wave -position end  sim:/AAC2M4H2_tb/rom
+run -all
+# This simulation is complete
+# ** Note: $stop    : C:/Users/HP/Downloads/AAC2M4H2/AAC2M4H2_tb.vp(129)
+#    Time: 20572 ns  Iteration: 0  Instance: /AAC2M4H2_tb
+# Break in Module AAC2M4H2_tb in file C:/Users/HP/Downloads/AAC2M4H2/AAC2M4H2_tb.vp
+# End time: 03:38:53 on Sep 08,2020, Elapsed time: 0:50:07
+# Errors: 15, Warnings: 0

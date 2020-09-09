@@ -1,0 +1,43 @@
+# Compile of AAC2M3P4.v was successful.
+# Compile of AAC2M3P4_tb.vp was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.AAC2M3P4_tb
+# vsim -gui work.AAC2M3P4_tb 
+# Start time: 02:22:18 on Sep 07,2020
+# Loading work.AAC2M3P4_tb
+# Loading work.Majority
+# **** Error: LoadCompleteQ cmd: Transcript::ViewSimPanes sim
+# ****        Bad sequence in.main_pane.structure.interior.cs.body.struct.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+# Bad sequence in.main_pane.structure.interior.cs.body.struct.lwchildsite.clipper.canvas.sfchildsite.tree, aborting query. (2)
+#     while executing
+# "Structure::CreateWindow $dataset_name"
+#     (procedure "Transcript::ViewSimPanes" line 28)
+#     invoked from within
+# "Transcript::ViewSimPanes sim"
+#     ("eval" body line 1)
+#     invoked from within
+# "eval $p $tankNamespace "
+add wave -position end  sim:/AAC2M3P4_tb/delay
+add wave -position end  sim:/AAC2M3P4_tb/a_tb
+add wave -position end  sim:/AAC2M3P4_tb/b_tb
+add wave -position end  sim:/AAC2M3P4_tb/c_tb
+add wave -position end  sim:/AAC2M3P4_tb/y_tb
+add wave -position end  sim:/AAC2M3P4_tb/i
+add wave -position end  sim:/AAC2M3P4_tb/j
+add wave -position end  sim:/AAC2M3P4_tb/k
+add wave -position end  sim:/AAC2M3P4_tb/ErrorCount
+add wave -position end  sim:/AAC2M3P4_tb/score
+add wave -position end  sim:/AAC2M3P4_tb/FirstError
+add wave -position end  sim:/AAC2M3P4_tb/ValidCheck
+add wave -position end  sim:/AAC2M3P4_tb/testresults
+add wave -position end  sim:/AAC2M3P4_tb/vector
+add wave -position end  sim:/AAC2M3P4_tb/address
+add wave -position end  sim:/AAC2M3P4_tb/data
+add wave -position end  sim:/AAC2M3P4_tb/rom
+run -all
+# This simulation is complete
+# ** Note: $stop    : C:/Users/HP/Downloads/AAC2M3P4/AAC2M3P4_tb.vp(115)
+#    Time: 90 ns  Iteration: 0  Instance: /AAC2M3P4_tb
+# Break in Module AAC2M3P4_tb in file C:/Users/HP/Downloads/AAC2M3P4/AAC2M3P4_tb.vp
+# End time: 02:33:23 on Sep 07,2020, Elapsed time: 0:11:05
+# Errors: 1, Warnings: 0

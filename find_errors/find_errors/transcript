@@ -1,0 +1,32 @@
+# Compile of AAC2M3P3.v was successful.
+# Compile of AAC2M3P3_tb.vp was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+# Compile of AAC2M3P3_tb.vp was successful.
+vsim -gui work.AAC2M3P3_tb
+# vsim -gui work.AAC2M3P3_tb 
+# Start time: 02:18:16 on Sep 07,2020
+# Loading work.AAC2M3P3_tb
+# Loading work.find_errors
+add wave -position end  sim:/AAC2M3P3_tb/delay
+add wave -position end  sim:/AAC2M3P3_tb/a_tb
+add wave -position end  sim:/AAC2M3P3_tb/c_tb
+add wave -position end  sim:/AAC2M3P3_tb/b_tb
+add wave -position end  sim:/AAC2M3P3_tb/i
+add wave -position end  sim:/AAC2M3P3_tb/j
+add wave -position end  sim:/AAC2M3P3_tb/ErrorCount
+add wave -position end  sim:/AAC2M3P3_tb/score
+add wave -position end  sim:/AAC2M3P3_tb/FirstError
+add wave -position end  sim:/AAC2M3P3_tb/ValidCheck
+add wave -position end  sim:/AAC2M3P3_tb/testresults
+add wave -position end  sim:/AAC2M3P3_tb/vector
+add wave -position end  sim:/AAC2M3P3_tb/address
+add wave -position end  sim:/AAC2M3P3_tb/data
+add wave -position end  sim:/AAC2M3P3_tb/rom
+run -all
+# This simulation is complete
+# ** Note: $stop    : C:/Users/HP/Downloads/AAC2M3P3/AAC2M3P3/AAC2M3P3_tb.vp(115)
+#    Time: 10250 ns  Iteration: 0  Instance: /AAC2M3P3_tb
+# Break in Module AAC2M3P3_tb in file C:/Users/HP/Downloads/AAC2M3P3/AAC2M3P3/AAC2M3P3_tb.vp
+# End time: 02:20:54 on Sep 07,2020, Elapsed time: 0:02:38
+# Errors: 0, Warnings: 0

@@ -1,0 +1,98 @@
+# Compile of AAC2M4P1.v failed with 2 errors.
+# Compile of AAC2M4P1_tb.vp was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of AAC2M4P1.v was successful.
+vsim -gui work.AAC2M4P1_tb
+# vsim -gui work.AAC2M4P1_tb 
+# Start time: 02:26:55 on Sep 08,2020
+# Loading work.AAC2M4P1_tb
+# Loading work.LS161a
+# Trace back: Error QStructure::sort: invalid command name ""
+#   <6:proc:11: ::QStructure::sort .main_pane.structure 0 ascending
+#   <5:eval:1: ::QStructure::structsort .main_pane.structure 0 ascending
+#   <4:eval:1: ::namespace inscope ::QStructure {structsort .main_pane.structure} 0 ascending
+#   >3:proc:26: ::.main_pane.structure.interior.cs.body.struct sort 0 ascending
+#   >2:proc:10: ::.main_pane.structure.interior.cs.body.struct _initializeSortColumn
+#   <1:eval:1: ::namespace inscope ::vsimwidgets::Hierarchy {::.main_pane.structure.interior.cs.body.struct _initializeSortColumn}
+add wave -position end  sim:/AAC2M4P1_tb/delay
+add wave -position end  sim:/AAC2M4P1_tb/clk_period
+add wave -position end  sim:/AAC2M4P1_tb/CLK_tb
+add wave -position end  sim:/AAC2M4P1_tb/CLR_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/LOAD_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENT_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENP_tb
+add wave -position end  sim:/AAC2M4P1_tb/D_tb
+add wave -position end  sim:/AAC2M4P1_tb/Q_tb
+add wave -position end  sim:/AAC2M4P1_tb/RCO_tb
+add wave -position end  sim:/AAC2M4P1_tb/i
+add wave -position end  sim:/AAC2M4P1_tb/j
+add wave -position end  sim:/AAC2M4P1_tb/k
+add wave -position end  sim:/AAC2M4P1_tb/ErrorCount
+add wave -position end  sim:/AAC2M4P1_tb/score
+add wave -position end  sim:/AAC2M4P1_tb/FirstError
+add wave -position end  sim:/AAC2M4P1_tb/ValidCheck
+add wave -position end  sim:/AAC2M4P1_tb/testresults
+add wave -position end  sim:/AAC2M4P1_tb/vector
+add wave -position end  sim:/AAC2M4P1_tb/address
+add wave -position end  sim:/AAC2M4P1_tb/data
+add wave -position end  sim:/AAC2M4P1_tb/rom
+run -all
+# Error at time       350
+#############  Autofindloop Analysis  ###############
+#############  Loop found at time 360 ns ###############
+#   Active process: /AAC2M4P1_tb/DUT/#ASSIGN#37 @ sub-iteration 0
+#     Source: C:/Users/HP/Downloads/AAC2M4P1/AAC2M4P1/AAC2M4P1_tb.vp:102
+#   Active process: /AAC2M4P1_tb/DUT/#ASSIGN#37 @ sub-iteration 1
+#     Source: C:/Users/HP/Downloads/AAC2M4P1/AAC2M4P1/AAC2M4P1_tb.vp:102
+#   Active process: /AAC2M4P1_tb/DUT/#ASSIGN#37 @ sub-iteration 2
+#     Source: C:/Users/HP/Downloads/AAC2M4P1/AAC2M4P1/AAC2M4P1_tb.vp:102
+################# END OF LOOP #################
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 360 ns.
+######## Additional Loop Analysis Started ##########
+##############  Autofindloop Step ##################
+#   Active process: /AAC2M4P1_tb/DUT/#ASSIGN#37
+#     Source: C:/Users/HP/Downloads/AAC2M4P1/AAC2M4P1/AAC2M4P1_tb.vp:102
+#   Active process: /AAC2M4P1_tb/DUT/#ALWAYS#15
+#     Source: C:/Users/HP/Downloads/AAC2M4P1/AAC2M4P1/AAC2M4P1_tb.vp:102
+###################################################
+# Compile of AAC2M4P1.v was successful.
+vsim -gui work.AAC2M4P1_tb
+# End time: 02:29:52 on Sep 08,2020, Elapsed time: 0:02:57
+# Errors: 15, Warnings: 0
+# vsim -gui work.AAC2M4P1_tb 
+# Start time: 02:29:53 on Sep 08,2020
+# Loading work.AAC2M4P1_tb
+# Loading work.LS161a
+add wave -position end  sim:/AAC2M4P1_tb/delay
+add wave -position end  sim:/AAC2M4P1_tb/clk_period
+add wave -position end  sim:/AAC2M4P1_tb/CLK_tb
+add wave -position end  sim:/AAC2M4P1_tb/CLR_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/LOAD_n_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENT_tb
+add wave -position end  sim:/AAC2M4P1_tb/ENP_tb
+add wave -position end  sim:/AAC2M4P1_tb/D_tb
+add wave -position end  sim:/AAC2M4P1_tb/Q_tb
+add wave -position end  sim:/AAC2M4P1_tb/RCO_tb
+add wave -position end  sim:/AAC2M4P1_tb/i
+add wave -position end  sim:/AAC2M4P1_tb/j
+add wave -position end  sim:/AAC2M4P1_tb/k
+add wave -position end  sim:/AAC2M4P1_tb/ErrorCount
+add wave -position end  sim:/AAC2M4P1_tb/score
+add wave -position end  sim:/AAC2M4P1_tb/FirstError
+add wave -position end  sim:/AAC2M4P1_tb/ValidCheck
+add wave -position end  sim:/AAC2M4P1_tb/testresults
+add wave -position end  sim:/AAC2M4P1_tb/vector
+add wave -position end  sim:/AAC2M4P1_tb/address
+add wave -position end  sim:/AAC2M4P1_tb/data
+add wave -position end  sim:/AAC2M4P1_tb/rom
+run -all
+# Error at time       350
+# Error at time       670
+# Score =           8
+# Error Count =           2
+# This simulation is complete
+# ** Note: $stop    : C:/Users/HP/Downloads/AAC2M4P1/AAC2M4P1/AAC2M4P1_tb.vp(125)
+#    Time: 681 ns  Iteration: 0  Instance: /AAC2M4P1_tb
+# Break in Module AAC2M4P1_tb in file C:/Users/HP/Downloads/AAC2M4P1/AAC2M4P1/AAC2M4P1_tb.vp
+# End time: 02:32:14 on Sep 08,2020, Elapsed time: 0:02:21
+# Errors: 0, Warnings: 0

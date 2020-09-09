@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2019.2 2019.04, Apr 17 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/19.4
+vAAC2M4P2_tb
+Z0 !s110 1599543210
+!i10b 1
+!s100 cP8F^Bl:5]L4<d3NnHS9?2
+!s11b ba?dd_oTK=`dlL7nSlg>:1
+I:[lWXGoc74Q4@SBlLkAMU0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+Z2 dC:/Users/HP/Downloads/AAC2M4P2
+w1573430040
+8C:/Users/HP/Downloads/AAC2M4P2/AAC2M4P2_tb.vp
+FC:/Users/HP/Downloads/AAC2M4P2/AAC2M4P2_tb.vp
+L0 65
+Z3 OV;L;2019.2;69
+r1
+!s85 0
+31
+Z4 !s108 1599543210.000000
+!s107 C:/Users/HP/Downloads/AAC2M4P2/AAC2M4P2_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/Downloads/AAC2M4P2/AAC2M4P2_tb.vp|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@a@c2@m4@p2_tb
+vRAM128x32
+R0
+!i10b 1
+!s100 HhU?_L6LW>ml8Qi0Z7_fQ0
+!s11b 4Z>GS?;SZMn<hRA=GMSL;1
+I`R[I_T7J<iTVo:HOFzI`C3
+R1
+R2
+w1599543127
+8C:/Users/HP/Downloads/AAC2M4P2/AAC2M4P2.v
+FC:/Users/HP/Downloads/AAC2M4P2/AAC2M4P2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/HP/Downloads/AAC2M4P2/AAC2M4P2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HP/Downloads/AAC2M4P2/AAC2M4P2.v|
+!i113 1
+R5
+R6
+n@r@a@m128x32

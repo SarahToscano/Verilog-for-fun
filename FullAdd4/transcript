@@ -1,0 +1,1151 @@
+# Compile of AAC2M3H1.v was successful.
+# Compile of AAC2M3H1_tb.vp was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.AAC2M3H1_tb
+# vsim -gui work.AAC2M3H1_tb 
+# Start time: 02:34:34 on Sep 07,2020
+# Loading work.AAC2M3H1_tb
+# Loading work.FullAdd4
+# Loading work.add
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_0 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 47
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_1 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 55
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_2 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 64
+# Error loading design
+# End time: 02:34:35 on Sep 07,2020, Elapsed time: 0:00:01
+# Errors: 3, Warnings: 0
+# Compile of AAC2M3H1.v was successful.
+vsim -gui work.AAC2M3H1_tb
+# vsim -gui work.AAC2M3H1_tb 
+# Start time: 02:38:41 on Sep 07,2020
+# Loading work.AAC2M3H1_tb
+# Loading work.FullAdd4
+# Loading work.add
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_0 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 47
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_1 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 55
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_2 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 64
+# Error loading design
+# End time: 02:38:42 on Sep 07,2020, Elapsed time: 0:00:01
+# Errors: 3, Warnings: 0
+# Compile of AAC2M3H1.v was successful.
+vsim -gui work.AAC2M3H1_tb
+# vsim -gui work.AAC2M3H1_tb 
+# Start time: 02:39:18 on Sep 07,2020
+# Loading work.AAC2M3H1_tb
+# Loading work.FullAdd4
+# Loading work.add
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_0 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 47
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_1 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 55
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_2 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 64
+# Error loading design
+# End time: 02:39:18 on Sep 07,2020, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Compile of AAC2M3H1.v was successful.
+# Compile of AAC2M3H1.v was successful.
+vsim -gui work.AAC2M3H1_tb
+# vsim -gui work.AAC2M3H1_tb 
+# Start time: 02:41:35 on Sep 07,2020
+# Loading work.AAC2M3H1_tb
+# Loading work.FullAdd4
+# Loading work.add
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_0 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 47
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_1 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 55
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_2 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 64
+# Error loading design
+# End time: 02:41:36 on Sep 07,2020, Elapsed time: 0:00:01
+# Errors: 3, Warnings: 0
+# Compile of AAC2M3H1.v was successful.
+vsim -gui work.AAC2M3H1_tb
+# vsim -gui work.AAC2M3H1_tb 
+# Start time: 02:42:31 on Sep 07,2020
+# Loading work.AAC2M3H1_tb
+# Loading work.FullAdd4
+# Loading work.add
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_0 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 47
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_1 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 55
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_2 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 64
+# Error loading design
+# End time: 02:42:32 on Sep 07,2020, Elapsed time: 0:00:01
+# Errors: 3, Warnings: 0
+# Compile of AAC2M3H1.v was successful.
+vsim -gui work.AAC2M3H1_tb
+# vsim -gui work.AAC2M3H1_tb 
+# Start time: 02:46:25 on Sep 07,2020
+# Loading work.AAC2M3H1_tb
+# Loading work.FullAdd4
+# Loading work.add
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_0 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 47
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_1 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 55
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Cout'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT/bit_2 File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 64
+# Error loading design
+# End time: 02:46:25 on Sep 07,2020, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+# Compile of AAC2M3H1.v was successful.
+vsim -gui work.AAC2M3H1_tb
+# vsim -gui work.AAC2M3H1_tb 
+# Start time: 02:47:09 on Sep 07,2020
+# Loading work.AAC2M3H1_tb
+# Loading work.FullAdd4
+add wave -position end  sim:/AAC2M3H1_tb/delay
+add wave -position end  sim:/AAC2M3H1_tb/a_tb
+add wave -position end  sim:/AAC2M3H1_tb/b_tb
+add wave -position end  sim:/AAC2M3H1_tb/c_tb
+add wave -position end  sim:/AAC2M3H1_tb/y_tb
+add wave -position end  sim:/AAC2M3H1_tb/Cout_tb
+add wave -position end  sim:/AAC2M3H1_tb/i
+add wave -position end  sim:/AAC2M3H1_tb/j
+add wave -position end  sim:/AAC2M3H1_tb/k
+add wave -position end  sim:/AAC2M3H1_tb/ErrorCount
+add wave -position end  sim:/AAC2M3H1_tb/score
+add wave -position end  sim:/AAC2M3H1_tb/FirstError
+add wave -position end  sim:/AAC2M3H1_tb/ValidCheck
+add wave -position end  sim:/AAC2M3H1_tb/testresults
+add wave -position end  sim:/AAC2M3H1_tb/vector
+add wave -position end  sim:/AAC2M3H1_tb/address
+add wave -position end  sim:/AAC2M3H1_tb/data
+add wave -position end  sim:/AAC2M3H1_tb/rom
+run -all
+# Error at time        20
+# Error at time        30
+# Error at time        40
+# Error at time        50
+# Error at time        60
+# Error at time        70
+# Error at time        80
+# Error at time        90
+# Error at time       100
+# Error at time       110
+# Error at time       120
+# Error at time       130
+# Error at time       140
+# Error at time       150
+# Error at time       160
+# Error at time       170
+# Error at time       180
+# Error at time       190
+# Error at time       200
+# Error at time       210
+# Error at time       220
+# Error at time       230
+# Error at time       240
+# Error at time       250
+# Error at time       260
+# Error at time       270
+# Error at time       280
+# Error at time       290
+# Error at time       300
+# Error at time       310
+# Error at time       340
+# Error at time       350
+# Error at time       360
+# Error at time       370
+# Error at time       380
+# Error at time       390
+# Error at time       400
+# Error at time       410
+# Error at time       420
+# Error at time       430
+# Error at time       440
+# Error at time       450
+# Error at time       460
+# Error at time       470
+# Error at time       480
+# Error at time       490
+# Error at time       500
+# Error at time       510
+# Error at time       520
+# Error at time       530
+# Error at time       540
+# Error at time       550
+# Error at time       560
+# Error at time       570
+# Error at time       580
+# Error at time       590
+# Error at time       600
+# Error at time       610
+# Error at time       630
+# Error at time       660
+# Error at time       670
+# Error at time       680
+# Error at time       690
+# Error at time       700
+# Error at time       710
+# Error at time       720
+# Error at time       730
+# Error at time       740
+# Error at time       750
+# Error at time       760
+# Error at time       770
+# Error at time       780
+# Error at time       790
+# Error at time       800
+# Error at time       810
+# Error at time       820
+# Error at time       830
+# Error at time       840
+# Error at time       850
+# Error at time       860
+# Error at time       870
+# Error at time       880
+# Error at time       890
+# Error at time       900
+# Error at time       910
+# Error at time       930
+# Error at time       940
+# Error at time       950
+# Error at time       980
+# Error at time       990
+# Error at time      1000
+# Error at time      1010
+# Error at time      1020
+# Error at time      1030
+# Error at time      1040
+# Error at time      1050
+# Error at time      1060
+# Error at time      1070
+# Error at time      1080
+# Error at time      1090
+# Error at time      1100
+# Error at time      1110
+# Error at time      1120
+# Error at time      1130
+# Error at time      1140
+# Error at time      1150
+# Error at time      1160
+# Error at time      1170
+# Error at time      1180
+# Error at time      1190
+# Error at time      1200
+# Error at time      1210
+# Error at time      1230
+# Error at time      1250
+# Error at time      1270
+# Error at time      1300
+# Error at time      1310
+# Error at time      1320
+# Error at time      1330
+# Error at time      1340
+# Error at time      1350
+# Error at time      1360
+# Error at time      1370
+# Error at time      1380
+# Error at time      1390
+# Error at time      1400
+# Error at time      1410
+# Error at time      1420
+# Error at time      1430
+# Error at time      1440
+# Error at time      1450
+# Error at time      1460
+# Error at time      1470
+# Error at time      1480
+# Error at time      1490
+# Error at time      1500
+# Error at time      1510
+# Error at time      1520
+# Error at time      1530
+# Error at time      1540
+# Error at time      1550
+# Error at time      1560
+# Error at time      1570
+# Error at time      1580
+# Error at time      1590
+# Error at time      1620
+# Error at time      1630
+# Error at time      1640
+# Error at time      1650
+# Error at time      1660
+# Error at time      1670
+# Error at time      1680
+# Error at time      1690
+# Error at time      1700
+# Error at time      1710
+# Error at time      1720
+# Error at time      1730
+# Error at time      1740
+# Error at time      1750
+# Error at time      1760
+# Error at time      1770
+# Error at time      1780
+# Error at time      1790
+# Error at time      1800
+# Error at time      1810
+# Error at time      1820
+# Error at time      1830
+# Error at time      1840
+# Error at time      1850
+# Error at time      1860
+# Error at time      1870
+# Error at time      1880
+# Error at time      1890
+# Error at time      1910
+# Error at time      1940
+# Error at time      1950
+# Error at time      1960
+# Error at time      1970
+# Error at time      1980
+# Error at time      1990
+# Error at time      2000
+# Error at time      2010
+# Error at time      2020
+# Error at time      2030
+# Error at time      2040
+# Error at time      2050
+# Error at time      2060
+# Error at time      2070
+# Error at time      2080
+# Error at time      2090
+# Error at time      2100
+# Error at time      2110
+# Error at time      2120
+# Error at time      2130
+# Error at time      2140
+# Error at time      2150
+# Error at time      2160
+# Error at time      2170
+# Error at time      2180
+# Error at time      2190
+# Error at time      2210
+# Error at time      2220
+# Error at time      2230
+# Error at time      2260
+# Error at time      2270
+# Error at time      2280
+# Error at time      2290
+# Error at time      2300
+# Error at time      2310
+# Error at time      2320
+# Error at time      2330
+# Error at time      2340
+# Error at time      2350
+# Error at time      2360
+# Error at time      2370
+# Error at time      2380
+# Error at time      2390
+# Error at time      2400
+# Error at time      2410
+# Error at time      2420
+# Error at time      2430
+# Error at time      2440
+# Error at time      2450
+# Error at time      2460
+# Error at time      2470
+# Error at time      2480
+# Error at time      2490
+# Error at time      2510
+# Error at time      2530
+# Error at time      2550
+# Error at time      2580
+# Error at time      2590
+# Error at time      2600
+# Error at time      2610
+# Error at time      2620
+# Error at time      2630
+# Error at time      2640
+# Error at time      2650
+# Error at time      2660
+# Error at time      2670
+# Error at time      2680
+# Error at time      2690
+# Error at time      2700
+# Error at time      2710
+# Error at time      2720
+# Error at time      2730
+# Error at time      2740
+# Error at time      2750
+# Error at time      2760
+# Error at time      2770
+# Error at time      2780
+# Error at time      2790
+# Error at time      2800
+# Error at time      2810
+# Error at time      2820
+# Error at time      2830
+# Error at time      2840
+# Error at time      2850
+# Error at time      2860
+# Error at time      2870
+# Error at time      2900
+# Error at time      2910
+# Error at time      2920
+# Error at time      2930
+# Error at time      2940
+# Error at time      2950
+# Error at time      2960
+# Error at time      2970
+# Error at time      2980
+# Error at time      2990
+# Error at time      3000
+# Error at time      3010
+# Error at time      3020
+# Error at time      3030
+# Error at time      3040
+# Error at time      3050
+# Error at time      3060
+# Error at time      3070
+# Error at time      3080
+# Error at time      3090
+# Error at time      3100
+# Error at time      3110
+# Error at time      3120
+# Error at time      3130
+# Error at time      3140
+# Error at time      3150
+# Error at time      3160
+# Error at time      3170
+# Error at time      3190
+# Error at time      3220
+# Error at time      3230
+# Error at time      3240
+# Error at time      3250
+# Error at time      3260
+# Error at time      3270
+# Error at time      3280
+# Error at time      3290
+# Error at time      3300
+# Error at time      3310
+# Error at time      3320
+# Error at time      3330
+# Error at time      3340
+# Error at time      3350
+# Error at time      3360
+# Error at time      3370
+# Error at time      3380
+# Error at time      3390
+# Error at time      3400
+# Error at time      3410
+# Error at time      3420
+# Error at time      3430
+# Error at time      3440
+# Error at time      3450
+# Error at time      3460
+# Error at time      3470
+# Error at time      3490
+# Error at time      3500
+# Error at time      3510
+# Error at time      3540
+# Error at time      3550
+# Error at time      3560
+# Error at time      3570
+# Error at time      3580
+# Error at time      3590
+# Error at time      3600
+# Error at time      3610
+# Error at time      3620
+# Error at time      3630
+# Error at time      3640
+# Error at time      3650
+# Error at time      3660
+# Error at time      3670
+# Error at time      3680
+# Error at time      3690
+# Error at time      3700
+# Error at time      3710
+# Error at time      3720
+# Error at time      3730
+# Error at time      3740
+# Error at time      3750
+# Error at time      3760
+# Error at time      3770
+# Error at time      3790
+# Error at time      3810
+# Error at time      3830
+# Error at time      3860
+# Error at time      3870
+# Error at time      3880
+# Error at time      3890
+# Error at time      3900
+# Error at time      3910
+# Error at time      3920
+# Error at time      3930
+# Error at time      3940
+# Error at time      3950
+# Error at time      3960
+# Error at time      3970
+# Error at time      3980
+# Error at time      3990
+# Error at time      4000
+# Error at time      4010
+# Error at time      4020
+# Error at time      4030
+# Error at time      4040
+# Error at time      4050
+# Error at time      4060
+# Error at time      4070
+# Error at time      4080
+# Error at time      4090
+# Error at time      4100
+# Error at time      4110
+# Error at time      4120
+# Error at time      4130
+# Error at time      4140
+# Error at time      4150
+# Error at time      4180
+# Error at time      4190
+# Error at time      4200
+# Error at time      4210
+# Error at time      4220
+# Error at time      4230
+# Error at time      4240
+# Error at time      4250
+# Error at time      4260
+# Error at time      4270
+# Error at time      4280
+# Error at time      4290
+# Error at time      4300
+# Error at time      4310
+# Error at time      4320
+# Error at time      4330
+# Error at time      4340
+# Error at time      4350
+# Error at time      4360
+# Error at time      4370
+# Error at time      4380
+# Error at time      4390
+# Error at time      4400
+# Error at time      4410
+# Error at time      4420
+# Error at time      4430
+# Error at time      4440
+# Error at time      4450
+# Error at time      4470
+# Error at time      4500
+# Error at time      4510
+# Error at time      4520
+# Error at time      4530
+# Error at time      4540
+# Error at time      4550
+# Error at time      4560
+# Error at time      4570
+# Error at time      4580
+# Error at time      4590
+# Error at time      4600
+# Error at time      4610
+# Error at time      4620
+# Error at time      4630
+# Error at time      4640
+# Error at time      4650
+# Error at time      4660
+# Error at time      4670
+# Error at time      4680
+# Error at time      4690
+# Error at time      4700
+# Error at time      4710
+# Error at time      4720
+# Error at time      4730
+# Error at time      4740
+# Error at time      4750
+# Error at time      4770
+# Error at time      4780
+# Error at time      4790
+# Error at time      4820
+# Error at time      4830
+# Error at time      4840
+# Error at time      4850
+# Error at time      4860
+# Error at time      4870
+# Error at time      4880
+# Error at time      4890
+# Error at time      4900
+# Error at time      4910
+# Error at time      4920
+# Error at time      4930
+# Error at time      4940
+# Error at time      4950
+# Error at time      4960
+# Error at time      4970
+# Error at time      4980
+# Error at time      4990
+# Error at time      5000
+# Error at time      5010
+# Error at time      5020
+# Error at time      5030
+# Error at time      5040
+# Error at time      5050
+# Error at time      5070
+# Error at time      5090
+# Error at time      5110
+# This simulation is complete
+# ** Note: $stop    : C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1_tb.vp(120)
+#    Time: 5130 ns  Iteration: 0  Instance: /AAC2M3H1_tb
+# Break in Module AAC2M3H1_tb in file C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1_tb.vp
+# Compile of AAC2M3H1.v was successful.
+vsim -gui work.AAC2M3H1_tb
+# End time: 02:49:42 on Sep 07,2020, Elapsed time: 0:02:33
+# Errors: 8, Warnings: 0
+# vsim -gui work.AAC2M3H1_tb 
+# Start time: 02:49:42 on Sep 07,2020
+# Loading work.AAC2M3H1_tb
+# Loading work.FullAdd4
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'add'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 66
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'add'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 74
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'add'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 83
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'add'.
+#    Time: 0 ps  Iteration: 0  Instance: /AAC2M3H1_tb/DUT File: C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1.v Line: 91
+# Error loading design
+# End time: 02:49:42 on Sep 07,2020, Elapsed time: 0:00:00
+# Errors: 7, Warnings: 0
+# Compile of AAC2M3H1.v failed with 1 errors.
+# Compile of AAC2M3H1.v was successful.
+vsim -gui work.AAC2M3H1_tb
+# vsim -gui work.AAC2M3H1_tb 
+# Start time: 02:50:33 on Sep 07,2020
+# Loading work.AAC2M3H1_tb
+# Loading work.FullAdd4
+# Loading work.add
+add wave -position end  sim:/AAC2M3H1_tb/delay
+add wave -position end  sim:/AAC2M3H1_tb/a_tb
+add wave -position end  sim:/AAC2M3H1_tb/b_tb
+add wave -position end  sim:/AAC2M3H1_tb/c_tb
+add wave -position end  sim:/AAC2M3H1_tb/y_tb
+add wave -position end  sim:/AAC2M3H1_tb/Cout_tb
+add wave -position end  sim:/AAC2M3H1_tb/i
+add wave -position end  sim:/AAC2M3H1_tb/j
+add wave -position end  sim:/AAC2M3H1_tb/k
+add wave -position end  sim:/AAC2M3H1_tb/ErrorCount
+add wave -position end  sim:/AAC2M3H1_tb/score
+add wave -position end  sim:/AAC2M3H1_tb/FirstError
+add wave -position end  sim:/AAC2M3H1_tb/ValidCheck
+add wave -position end  sim:/AAC2M3H1_tb/testresults
+add wave -position end  sim:/AAC2M3H1_tb/vector
+add wave -position end  sim:/AAC2M3H1_tb/address
+add wave -position end  sim:/AAC2M3H1_tb/data
+add wave -position end  sim:/AAC2M3H1_tb/rom
+run -all
+# Error at time        20
+# Error at time        30
+# Error at time        40
+# Error at time        50
+# Error at time        60
+# Error at time        70
+# Error at time        80
+# Error at time        90
+# Error at time       100
+# Error at time       110
+# Error at time       120
+# Error at time       130
+# Error at time       140
+# Error at time       150
+# Error at time       160
+# Error at time       170
+# Error at time       180
+# Error at time       190
+# Error at time       200
+# Error at time       210
+# Error at time       220
+# Error at time       230
+# Error at time       240
+# Error at time       250
+# Error at time       260
+# Error at time       270
+# Error at time       280
+# Error at time       290
+# Error at time       300
+# Error at time       310
+# Error at time       340
+# Error at time       350
+# Error at time       360
+# Error at time       370
+# Error at time       380
+# Error at time       390
+# Error at time       400
+# Error at time       410
+# Error at time       420
+# Error at time       430
+# Error at time       440
+# Error at time       450
+# Error at time       460
+# Error at time       470
+# Error at time       480
+# Error at time       490
+# Error at time       500
+# Error at time       510
+# Error at time       520
+# Error at time       530
+# Error at time       540
+# Error at time       550
+# Error at time       560
+# Error at time       570
+# Error at time       580
+# Error at time       590
+# Error at time       600
+# Error at time       610
+# Error at time       620
+# Error at time       630
+# Error at time       660
+# Error at time       670
+# Error at time       680
+# Error at time       690
+# Error at time       700
+# Error at time       710
+# Error at time       720
+# Error at time       730
+# Error at time       740
+# Error at time       750
+# Error at time       760
+# Error at time       770
+# Error at time       780
+# Error at time       790
+# Error at time       800
+# Error at time       810
+# Error at time       820
+# Error at time       830
+# Error at time       840
+# Error at time       850
+# Error at time       860
+# Error at time       870
+# Error at time       880
+# Error at time       890
+# Error at time       900
+# Error at time       910
+# Error at time       920
+# Error at time       930
+# Error at time       940
+# Error at time       950
+# Error at time       980
+# Error at time       990
+# Error at time      1000
+# Error at time      1010
+# Error at time      1020
+# Error at time      1030
+# Error at time      1040
+# Error at time      1050
+# Error at time      1060
+# Error at time      1070
+# Error at time      1080
+# Error at time      1090
+# Error at time      1100
+# Error at time      1110
+# Error at time      1120
+# Error at time      1130
+# Error at time      1140
+# Error at time      1150
+# Error at time      1160
+# Error at time      1170
+# Error at time      1180
+# Error at time      1190
+# Error at time      1200
+# Error at time      1210
+# Error at time      1220
+# Error at time      1230
+# Error at time      1240
+# Error at time      1250
+# Error at time      1260
+# Error at time      1270
+# Error at time      1300
+# Error at time      1310
+# Error at time      1320
+# Error at time      1330
+# Error at time      1340
+# Error at time      1350
+# Error at time      1360
+# Error at time      1370
+# Error at time      1380
+# Error at time      1390
+# Error at time      1400
+# Error at time      1410
+# Error at time      1420
+# Error at time      1430
+# Error at time      1440
+# Error at time      1450
+# Error at time      1460
+# Error at time      1470
+# Error at time      1480
+# Error at time      1490
+# Error at time      1500
+# Error at time      1510
+# Error at time      1520
+# Error at time      1530
+# Error at time      1540
+# Error at time      1550
+# Error at time      1560
+# Error at time      1570
+# Error at time      1580
+# Error at time      1590
+# Error at time      1620
+# Error at time      1630
+# Error at time      1640
+# Error at time      1650
+# Error at time      1660
+# Error at time      1670
+# Error at time      1680
+# Error at time      1690
+# Error at time      1700
+# Error at time      1710
+# Error at time      1720
+# Error at time      1730
+# Error at time      1740
+# Error at time      1750
+# Error at time      1760
+# Error at time      1770
+# Error at time      1780
+# Error at time      1790
+# Error at time      1800
+# Error at time      1810
+# Error at time      1820
+# Error at time      1830
+# Error at time      1840
+# Error at time      1850
+# Error at time      1860
+# Error at time      1870
+# Error at time      1880
+# Error at time      1890
+# Error at time      1900
+# Error at time      1910
+# Error at time      1940
+# Error at time      1950
+# Error at time      1960
+# Error at time      1970
+# Error at time      1980
+# Error at time      1990
+# Error at time      2000
+# Error at time      2010
+# Error at time      2020
+# Error at time      2030
+# Error at time      2040
+# Error at time      2050
+# Error at time      2060
+# Error at time      2070
+# Error at time      2080
+# Error at time      2090
+# Error at time      2100
+# Error at time      2110
+# Error at time      2120
+# Error at time      2130
+# Error at time      2140
+# Error at time      2150
+# Error at time      2160
+# Error at time      2170
+# Error at time      2180
+# Error at time      2190
+# Error at time      2200
+# Error at time      2210
+# Error at time      2220
+# Error at time      2230
+# Error at time      2260
+# Error at time      2270
+# Error at time      2280
+# Error at time      2290
+# Error at time      2300
+# Error at time      2310
+# Error at time      2320
+# Error at time      2330
+# Error at time      2340
+# Error at time      2350
+# Error at time      2360
+# Error at time      2370
+# Error at time      2380
+# Error at time      2390
+# Error at time      2400
+# Error at time      2410
+# Error at time      2420
+# Error at time      2430
+# Error at time      2440
+# Error at time      2450
+# Error at time      2460
+# Error at time      2470
+# Error at time      2480
+# Error at time      2490
+# Error at time      2500
+# Error at time      2510
+# Error at time      2520
+# Error at time      2530
+# Error at time      2540
+# Error at time      2550
+# Error at time      2580
+# Error at time      2590
+# Error at time      2600
+# Error at time      2610
+# Error at time      2620
+# Error at time      2630
+# Error at time      2640
+# Error at time      2650
+# Error at time      2660
+# Error at time      2670
+# Error at time      2680
+# Error at time      2690
+# Error at time      2700
+# Error at time      2710
+# Error at time      2720
+# Error at time      2730
+# Error at time      2740
+# Error at time      2750
+# Error at time      2760
+# Error at time      2770
+# Error at time      2780
+# Error at time      2790
+# Error at time      2800
+# Error at time      2810
+# Error at time      2820
+# Error at time      2830
+# Error at time      2840
+# Error at time      2850
+# Error at time      2860
+# Error at time      2870
+# Error at time      2900
+# Error at time      2910
+# Error at time      2920
+# Error at time      2930
+# Error at time      2940
+# Error at time      2950
+# Error at time      2960
+# Error at time      2970
+# Error at time      2980
+# Error at time      2990
+# Error at time      3000
+# Error at time      3010
+# Error at time      3020
+# Error at time      3030
+# Error at time      3040
+# Error at time      3050
+# Error at time      3060
+# Error at time      3070
+# Error at time      3080
+# Error at time      3090
+# Error at time      3100
+# Error at time      3110
+# Error at time      3120
+# Error at time      3130
+# Error at time      3140
+# Error at time      3150
+# Error at time      3160
+# Error at time      3170
+# Error at time      3180
+# Error at time      3190
+# Error at time      3220
+# Error at time      3230
+# Error at time      3240
+# Error at time      3250
+# Error at time      3260
+# Error at time      3270
+# Error at time      3280
+# Error at time      3290
+# Error at time      3300
+# Error at time      3310
+# Error at time      3320
+# Error at time      3330
+# Error at time      3340
+# Error at time      3350
+# Error at time      3360
+# Error at time      3370
+# Error at time      3380
+# Error at time      3390
+# Error at time      3400
+# Error at time      3410
+# Error at time      3420
+# Error at time      3430
+# Error at time      3440
+# Error at time      3450
+# Error at time      3460
+# Error at time      3470
+# Error at time      3480
+# Error at time      3490
+# Error at time      3500
+# Error at time      3510
+# Error at time      3540
+# Error at time      3550
+# Error at time      3560
+# Error at time      3570
+# Error at time      3580
+# Error at time      3590
+# Error at time      3600
+# Error at time      3610
+# Error at time      3620
+# Error at time      3630
+# Error at time      3640
+# Error at time      3650
+# Error at time      3660
+# Error at time      3670
+# Error at time      3680
+# Error at time      3690
+# Error at time      3700
+# Error at time      3710
+# Error at time      3720
+# Error at time      3730
+# Error at time      3740
+# Error at time      3750
+# Error at time      3760
+# Error at time      3770
+# Error at time      3780
+# Error at time      3790
+# Error at time      3800
+# Error at time      3810
+# Error at time      3820
+# Error at time      3830
+# Error at time      3860
+# Error at time      3870
+# Error at time      3880
+# Error at time      3890
+# Error at time      3900
+# Error at time      3910
+# Error at time      3920
+# Error at time      3930
+# Error at time      3940
+# Error at time      3950
+# Error at time      3960
+# Error at time      3970
+# Error at time      3980
+# Error at time      3990
+# Error at time      4000
+# Error at time      4010
+# Error at time      4020
+# Error at time      4030
+# Error at time      4040
+# Error at time      4050
+# Error at time      4060
+# Error at time      4070
+# Error at time      4080
+# Error at time      4090
+# Error at time      4100
+# Error at time      4110
+# Error at time      4120
+# Error at time      4130
+# Error at time      4140
+# Error at time      4150
+# Error at time      4180
+# Error at time      4190
+# Error at time      4200
+# Error at time      4210
+# Error at time      4220
+# Error at time      4230
+# Error at time      4240
+# Error at time      4250
+# Error at time      4260
+# Error at time      4270
+# Error at time      4280
+# Error at time      4290
+# Error at time      4300
+# Error at time      4310
+# Error at time      4320
+# Error at time      4330
+# Error at time      4340
+# Error at time      4350
+# Error at time      4360
+# Error at time      4370
+# Error at time      4380
+# Error at time      4390
+# Error at time      4400
+# Error at time      4410
+# Error at time      4420
+# Error at time      4430
+# Error at time      4440
+# Error at time      4450
+# Error at time      4460
+# Error at time      4470
+# Error at time      4500
+# Error at time      4510
+# Error at time      4520
+# Error at time      4530
+# Error at time      4540
+# Error at time      4550
+# Error at time      4560
+# Error at time      4570
+# Error at time      4580
+# Error at time      4590
+# Error at time      4600
+# Error at time      4610
+# Error at time      4620
+# Error at time      4630
+# Error at time      4640
+# Error at time      4650
+# Error at time      4660
+# Error at time      4670
+# Error at time      4680
+# Error at time      4690
+# Error at time      4700
+# Error at time      4710
+# Error at time      4720
+# Error at time      4730
+# Error at time      4740
+# Error at time      4750
+# Error at time      4760
+# Error at time      4770
+# Error at time      4780
+# Error at time      4790
+# Error at time      4820
+# Error at time      4830
+# Error at time      4840
+# Error at time      4850
+# Error at time      4860
+# Error at time      4870
+# Error at time      4880
+# Error at time      4890
+# Error at time      4900
+# Error at time      4910
+# Error at time      4920
+# Error at time      4930
+# Error at time      4940
+# Error at time      4950
+# Error at time      4960
+# Error at time      4970
+# Error at time      4980
+# Error at time      4990
+# Error at time      5000
+# Error at time      5010
+# Error at time      5020
+# Error at time      5030
+# Error at time      5040
+# Error at time      5050
+# Error at time      5060
+# Error at time      5070
+# Error at time      5080
+# Error at time      5090
+# Error at time      5100
+# Error at time      5110
+# This simulation is complete
+# ** Note: $stop    : C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1_tb.vp(120)
+#    Time: 5130 ns  Iteration: 0  Instance: /AAC2M3H1_tb
+# Break in Module AAC2M3H1_tb in file C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1_tb.vp
+# Compile of AAC2M3H1.v was successful.
+vsim -gui work.AAC2M3H1_tb
+# End time: 02:53:59 on Sep 07,2020, Elapsed time: 0:03:26
+# Errors: 3, Warnings: 0
+# vsim -gui work.AAC2M3H1_tb 
+# Start time: 02:53:59 on Sep 07,2020
+# Loading work.AAC2M3H1_tb
+# Loading work.FullAdd4
+add wave -position end  sim:/AAC2M3H1_tb/delay
+add wave -position end  sim:/AAC2M3H1_tb/a_tb
+add wave -position end  sim:/AAC2M3H1_tb/b_tb
+add wave -position end  sim:/AAC2M3H1_tb/c_tb
+add wave -position end  sim:/AAC2M3H1_tb/y_tb
+add wave -position end  sim:/AAC2M3H1_tb/Cout_tb
+add wave -position end  sim:/AAC2M3H1_tb/i
+add wave -position end  sim:/AAC2M3H1_tb/j
+add wave -position end  sim:/AAC2M3H1_tb/k
+add wave -position end  sim:/AAC2M3H1_tb/ErrorCount
+add wave -position end  sim:/AAC2M3H1_tb/score
+add wave -position end  sim:/AAC2M3H1_tb/FirstError
+add wave -position end  sim:/AAC2M3H1_tb/ValidCheck
+add wave -position end  sim:/AAC2M3H1_tb/testresults
+add wave -position end  sim:/AAC2M3H1_tb/vector
+add wave -position end  sim:/AAC2M3H1_tb/address
+add wave -position end  sim:/AAC2M3H1_tb/data
+add wave -position end  sim:/AAC2M3H1_tb/rom
+run -all
+# This simulation is complete
+# ** Note: $stop    : C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1_tb.vp(120)
+#    Time: 5130 ns  Iteration: 0  Instance: /AAC2M3H1_tb
+# Break in Module AAC2M3H1_tb in file C:/Users/HP/Downloads/AAC2M3H1/AAC2M3H1_tb.vp
+# End time: 03:05:34 on Sep 07,2020, Elapsed time: 0:11:35
+# Errors: 3, Warnings: 0

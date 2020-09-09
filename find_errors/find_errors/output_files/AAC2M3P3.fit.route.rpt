@@ -1,0 +1,104 @@
+Fitter Route Stage Report for AAC2M3P3
+Mon Sep  7 02:37:45 2020
+Quartus Prime Version 19.4.0 Build 64 12/04/2019 SC Pro Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Delay Chain Summary
+  3. Routing Usage Summary
+  4. Route Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2019  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Delay Chain Summary                                                                                                                                     ;
++--------+----------+---------------------+--------------------+----------------+-----------------------------------+-------------------------------------+
+; Name   ; Pin Type ; Input Delay Chain 0 ; Output Delay Chain ; OE Delay Chain ; IO_12_LANE Input Data Delay Chain ; IO_12_LANE Input Strobe Delay Chain ;
++--------+----------+---------------------+--------------------+----------------+-----------------------------------+-------------------------------------+
+; Sum[0] ; Output   ; --                  ; 0                  ; 0              ; --                                ; --                                  ;
+; Sum[1] ; Output   ; --                  ; 0                  ; 0              ; --                                ; --                                  ;
+; Sum[2] ; Output   ; --                  ; 0                  ; 0              ; --                                ; --                                  ;
+; Sum[3] ; Output   ; --                  ; 0                  ; 0              ; --                                ; --                                  ;
+; Cout   ; Output   ; --                  ; 0                  ; 0              ; --                                ; --                                  ;
+; A[0]   ; Input    ; 0                   ; --                 ; --             ; --                                ; --                                  ;
+; B[0]   ; Input    ; 0                   ; --                 ; --             ; --                                ; --                                  ;
+; Cin    ; Input    ; 0                   ; --                 ; --             ; --                                ; --                                  ;
+; A[1]   ; Input    ; 0                   ; --                 ; --             ; --                                ; --                                  ;
+; B[1]   ; Input    ; 0                   ; --                 ; --             ; --                                ; --                                  ;
+; A[2]   ; Input    ; 0                   ; --                 ; --             ; --                                ; --                                  ;
+; B[2]   ; Input    ; 0                   ; --                 ; --             ; --                                ; --                                  ;
+; A[3]   ; Input    ; 0                   ; --                 ; --             ; --                                ; --                                  ;
+; B[3]   ; Input    ; 0                   ; --                 ; --             ; --                                ; --                                  ;
++--------+----------+---------------------+--------------------+----------------+-----------------------------------+-------------------------------------+
+
+
++-------------------------------------------------------+
+; Routing Usage Summary                                 ;
++------------------------------+------------------------+
+; Routing Resource Type        ; Usage                  ;
++------------------------------+------------------------+
+; Block interconnects          ; 15 / 664,374 ( < 1 % ) ;
+; C27 interconnects            ; 0 / 12,769 ( 0 % )     ;
+; C4 interconnects             ; 30 / 514,392 ( < 1 % ) ;
+; Direct links                 ; 1 / 664,374 ( < 1 % )  ;
+; Global clocks                ; 0 / 32 ( 0 % )         ;
+; Periphery clocks             ; 0 / 410 ( 0 % )        ;
+; R3 interconnects             ; 3 / 246,936 ( < 1 % )  ;
+; R32 interconnects            ; 0 / 28,257 ( 0 % )     ;
+; R32/C27 interconnect drivers ; 0 / 74,920 ( 0 % )     ;
+; R6 interconnects             ; 2 / 527,108 ( < 1 % )  ;
+; Regional clock lefts         ; 0 / 8 ( 0 % )          ;
+; Regional clock out bottoms   ; 0 / 8 ( 0 % )          ;
+; Regional clock out tops      ; 0 / 8 ( 0 % )          ;
+; Regional clock rights        ; 0 / 8 ( 0 % )          ;
+; Regional clocks              ; 0 / 8 ( 0 % )          ;
+; Spine buffers                ; 0 / 220 ( 0 % )        ;
+; Spine clocks                 ; 0 / 330 ( 0 % )        ;
+; Spine feedthroughs           ; 0 / 224 ( 0 % )        ;
++------------------------------+------------------------+
+
+
++----------------+
+; Route Messages ;
++----------------+
+Info (20030): Parallel compilation is enabled and will use 4 of the 4 processors detected
+Info: *******************************************************************
+Info: Running Quartus Prime Fitter
+    Info: Version 19.4.0 Build 64 12/04/2019 SC Pro Edition
+    Info: Processing started: Mon Sep  7 02:36:52 2020
+    Info: System process ID: 7860
+Info: Command: quartus_fit --read_settings_files=on --write_settings_files=off AAC2M3P3 -c AAC2M3P3
+Info: qfit2_default_script.tcl version: #1
+Info: Project  = AAC2M3P3
+Info: Revision = AAC2M3P3
+Info (170193): Fitter routing operations beginning
+Info (170199): The Fitter performed an Auto Fit compilation.  Optimizations were skipped to reduce compilation time.
+    Info (170201): Optimizations that may affect the design's routability were skipped
+    Info (170200): Optimizations that may affect the design's timing were skipped
+Info (11888): Total time spent on timing analysis during Routing is 0.02 seconds.
+Info (16607): Fitter routing operations ending: elapsed time is 00:00:10
+
+

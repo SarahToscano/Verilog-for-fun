@@ -1,0 +1,70 @@
+Fitter Finalize Stage Report for AAC2M3P3
+Mon Sep  7 02:37:50 2020
+Quartus Prime Version 19.4.0 Build 64 12/04/2019 SC Pro Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Fitter HSLP Summary
+  3. Finalize Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2019  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++--------------------------------------------------------------------------------+
+; Fitter HSLP Summary                                                            ;
++--------------------------------------------------------+---------------+-------+
+; Resource                                               ; Usage         ; %     ;
++--------------------------------------------------------+---------------+-------+
+;                                                        ;               ;       ;
+; Programmable power technology high-speed tiles         ; 19 / 3,531    ; < 1 % ;
+; Programmable power technology low-power tiles          ; 3,512 / 3,531 ; 99 %  ;
+;     -- low-power tiles that are used by the design     ; 1 / 3,512     ; < 1 % ;
+;     -- unused tiles (low-power)                        ; 3,511 / 3,512 ; 100 % ;
+;                                                        ;               ;       ;
+; Programmable power technology high-speed LAB tiles     ; 19 / 2,642    ; < 1 % ;
+; Programmable power technology low-power LAB tiles      ; 2,623 / 2,642 ; 99 %  ;
+;     -- low-power LAB tiles that are used by the design ; 1 / 2,623     ; < 1 % ;
+;     -- unused LAB tiles (low-power)                    ; 2,622 / 2,623 ; 100 % ;
+;                                                        ;               ;       ;
++--------------------------------------------------------+---------------+-------+
+
+
++-------------------+
+; Finalize Messages ;
++-------------------+
+Info (20030): Parallel compilation is enabled and will use 4 of the 4 processors detected
+Info: *******************************************************************
+Info: Running Quartus Prime Fitter
+    Info: Version 19.4.0 Build 64 12/04/2019 SC Pro Edition
+    Info: Processing started: Mon Sep  7 02:36:52 2020
+    Info: System process ID: 7860
+Info: Command: quartus_fit --read_settings_files=on --write_settings_files=off AAC2M3P3 -c AAC2M3P3
+Info: qfit2_default_script.tcl version: #1
+Info: Project  = AAC2M3P3
+Info: Revision = AAC2M3P3
+Info (11888): Total time spent on timing analysis during Post-Routing is 0.00 seconds.
+Info (16557): Fitter post-fit operations ending: elapsed time is 00:00:04
+
+

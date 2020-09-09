@@ -1,0 +1,15 @@
+C:/Users/HP/Downloads/AAC2M3P1/AAC2M3P1.v {1 {vlog -work work -stats=none C:/Users/HP/Downloads/AAC2M3P1/AAC2M3P1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module Comparator2
+
+Top level modules:
+	Comparator2
+
+} {} {}} C:/Users/HP/Downloads/AAC2M3P1/AAC2M3P1_tb.vp {1 {vlog -work work -stats=none C:/Users/HP/Downloads/AAC2M3P1/AAC2M3P1_tb.vp
+Model Technology ModelSim - Intel FPGA Edition vlog 2019.2 Compiler 2019.04 Apr 17 2019
+-- Compiling module AAC2M3P1_tb
+
+Top level modules:
+	AAC2M3P1_tb
+
+} {} {}}

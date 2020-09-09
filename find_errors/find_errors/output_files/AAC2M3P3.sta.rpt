@@ -1,0 +1,486 @@
+Timing Analyzer report for AAC2M3P3
+Mon Sep  7 02:38:02 2020
+Quartus Prime Version 19.4.0 Build 64 12/04/2019 SC Pro Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Timing Analyzer Summary
+  3. Timing Delays: Final Snapshot
+  4. Parallel Compilation
+  5. Clocks
+  6. Slow 900mV 100C Model Fmax Summary
+  7. Timing Closure Recommendations
+  8. Slow 900mV 100C Model Setup Summary
+  9. Slow 900mV 100C Model Hold Summary
+ 10. Slow 900mV 100C Model Recovery Summary
+ 11. Slow 900mV 100C Model Removal Summary
+ 12. Slow 900mV 100C Model Minimum Pulse Width Summary
+ 13. Slow 900mV 100C Model Metastability Summary
+ 14. Slow 900mV -40C Model Fmax Summary
+ 15. Slow 900mV -40C Model Setup Summary
+ 16. Slow 900mV -40C Model Hold Summary
+ 17. Slow 900mV -40C Model Recovery Summary
+ 18. Slow 900mV -40C Model Removal Summary
+ 19. Slow 900mV -40C Model Minimum Pulse Width Summary
+ 20. Slow 900mV -40C Model Metastability Summary
+ 21. Fast 900mV 100C Model Setup Summary
+ 22. Fast 900mV 100C Model Hold Summary
+ 23. Fast 900mV 100C Model Recovery Summary
+ 24. Fast 900mV 100C Model Removal Summary
+ 25. Fast 900mV 100C Model Minimum Pulse Width Summary
+ 26. Fast 900mV 100C Model Metastability Summary
+ 27. Fast 900mV -40C Model Setup Summary
+ 28. Fast 900mV -40C Model Hold Summary
+ 29. Fast 900mV -40C Model Recovery Summary
+ 30. Fast 900mV -40C Model Removal Summary
+ 31. Fast 900mV -40C Model Minimum Pulse Width Summary
+ 32. Fast 900mV -40C Model Metastability Summary
+ 33. Board Trace Model Assignments
+ 34. Input Transition Times
+ 35. Signal Integrity Metrics (Slow 900mv 100c Model)
+ 36. Signal Integrity Metrics (Fast 900mv n40c Model)
+ 37. Clock Transfers
+ 38. Timing Analyzer Messages
+ 39. Unconstrained Paths Summary
+ 40. Unconstrained Input Ports
+ 41. Unconstrained Output Ports
+ 42. Unconstrained Input Ports
+ 43. Unconstrained Output Ports
+ 44. Multicorner Timing Analysis Summary
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2019  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++---------------------------------------------------------------------------+
+; Timing Analyzer Summary                                                   ;
++-----------------------+---------------------------------------------------+
+; Quartus Prime Version ; Version 19.4.0 Build 64 12/04/2019 SC Pro Edition ;
+; Timing Analyzer       ; Timing Analyzer                                   ;
+; Revision Name         ; AAC2M3P3                                          ;
+; Device Family         ; Cyclone 10 GX                                     ;
+; Device Name           ; 10CX220YF780I5G                                   ;
+; Snapshot              ; final                                             ;
+; Timing Models         ; Final                                             ;
+; Delay Model           ; Combined                                          ;
+; Rise/Fall Delays      ; Enabled                                           ;
++-----------------------+---------------------------------------------------+
+
+
++---------------------------------------------+
+; Timing Delays: Final Snapshot               ;
++----------------------------------+----------+
+; Snapshot                         ; final    ;
+; Periphery block cell delays      ; Sign-off ;
+; Core block cell delays           ; Sign-off ;
+; Routing interconnect (IC) delays ; Sign-off ;
++----------------------------------+----------+
+
+
++-------------------------------------+
+; Parallel Compilation                ;
++----------------------------+--------+
+; Processors                 ; Number ;
++----------------------------+--------+
+; Number detected on machine ; 4      ;
+; Maximum allowed            ; 4      ;
++----------------------------+--------+
+
+
+----------
+; Clocks ;
+----------
+No clocks to report.
+
+
+--------------------------------------
+; Slow 900mV 100C Model Fmax Summary ;
+--------------------------------------
+No paths to report.
+
+
+----------------------------------
+; Timing Closure Recommendations ;
+----------------------------------
+HTML report is unavailable in plain text report export.
+
+
+---------------------------------------
+; Slow 900mV 100C Model Setup Summary ;
+---------------------------------------
+No paths to report.
+
+
+--------------------------------------
+; Slow 900mV 100C Model Hold Summary ;
+--------------------------------------
+No paths to report.
+
+
+------------------------------------------
+; Slow 900mV 100C Model Recovery Summary ;
+------------------------------------------
+No paths to report.
+
+
+-----------------------------------------
+; Slow 900mV 100C Model Removal Summary ;
+-----------------------------------------
+No paths to report.
+
+
+-----------------------------------------------------
+; Slow 900mV 100C Model Minimum Pulse Width Summary ;
+-----------------------------------------------------
+No paths to report.
+
+
+-----------------------------------------------
+; Slow 900mV 100C Model Metastability Summary ;
+-----------------------------------------------
+No synchronizer chains to report.
+
+
+--------------------------------------
+; Slow 900mV -40C Model Fmax Summary ;
+--------------------------------------
+No paths to report.
+
+
+---------------------------------------
+; Slow 900mV -40C Model Setup Summary ;
+---------------------------------------
+No paths to report.
+
+
+--------------------------------------
+; Slow 900mV -40C Model Hold Summary ;
+--------------------------------------
+No paths to report.
+
+
+------------------------------------------
+; Slow 900mV -40C Model Recovery Summary ;
+------------------------------------------
+No paths to report.
+
+
+-----------------------------------------
+; Slow 900mV -40C Model Removal Summary ;
+-----------------------------------------
+No paths to report.
+
+
+-----------------------------------------------------
+; Slow 900mV -40C Model Minimum Pulse Width Summary ;
+-----------------------------------------------------
+No paths to report.
+
+
+-----------------------------------------------
+; Slow 900mV -40C Model Metastability Summary ;
+-----------------------------------------------
+No synchronizer chains to report.
+
+
+---------------------------------------
+; Fast 900mV 100C Model Setup Summary ;
+---------------------------------------
+No paths to report.
+
+
+--------------------------------------
+; Fast 900mV 100C Model Hold Summary ;
+--------------------------------------
+No paths to report.
+
+
+------------------------------------------
+; Fast 900mV 100C Model Recovery Summary ;
+------------------------------------------
+No paths to report.
+
+
+-----------------------------------------
+; Fast 900mV 100C Model Removal Summary ;
+-----------------------------------------
+No paths to report.
+
+
+-----------------------------------------------------
+; Fast 900mV 100C Model Minimum Pulse Width Summary ;
+-----------------------------------------------------
+No paths to report.
+
+
+-----------------------------------------------
+; Fast 900mV 100C Model Metastability Summary ;
+-----------------------------------------------
+No synchronizer chains to report.
+
+
+---------------------------------------
+; Fast 900mV -40C Model Setup Summary ;
+---------------------------------------
+No paths to report.
+
+
+--------------------------------------
+; Fast 900mV -40C Model Hold Summary ;
+--------------------------------------
+No paths to report.
+
+
+------------------------------------------
+; Fast 900mV -40C Model Recovery Summary ;
+------------------------------------------
+No paths to report.
+
+
+-----------------------------------------
+; Fast 900mV -40C Model Removal Summary ;
+-----------------------------------------
+No paths to report.
+
+
+-----------------------------------------------------
+; Fast 900mV -40C Model Minimum Pulse Width Summary ;
+-----------------------------------------------------
+No paths to report.
+
+
+-----------------------------------------------
+; Fast 900mV -40C Model Metastability Summary ;
+-----------------------------------------------
+No synchronizer chains to report.
+
+
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Board Trace Model Assignments                                                                                                                                                                                                                                                                                                                                                                             ;
++--------+--------------+-------------------+-------------------------+-------------------------+---------------+---------------------+----------------+------------------+--------+------------------+------------------------+------------------------+--------------+---------------+-----------------+-------+---------------------+--------------------+---------------+-----------------+-------------+
+; Pin    ; I/O Standard ; Near Tline Length ; Near Tline L per Length ; Near Tline C per Length ; Near Series R ; Near Differential R ; Near Pull-up R ; Near Pull-down R ; Near C ; Far Tline Length ; Far Tline L per Length ; Far Tline C per Length ; Far Series R ; Far Pull-up R ; Far Pull-down R ; Far C ; Termination Voltage ; Far Differential R ; EBD File Name ; EBD Signal Name ; EBD Far-end ;
++--------+--------------+-------------------+-------------------------+-------------------------+---------------+---------------------+----------------+------------------+--------+------------------+------------------------+------------------------+--------------+---------------+-----------------+-------+---------------------+--------------------+---------------+-----------------+-------------+
+; Sum(0) ; 1.8 V        ; 0 in              ; 0 H/in                  ; 0 F/in                  ; short         ; -                   ; open           ; open             ; open   ; 0 in             ; 0 H/in                 ; 0 F/in                 ; short        ; open          ; open            ; open  ; 0 V                 ; -                  ; n/a           ; n/a             ; n/a         ;
+; Sum(1) ; 1.8 V        ; 0 in              ; 0 H/in                  ; 0 F/in                  ; short         ; -                   ; open           ; open             ; open   ; 0 in             ; 0 H/in                 ; 0 F/in                 ; short        ; open          ; open            ; open  ; 0 V                 ; -                  ; n/a           ; n/a             ; n/a         ;
+; Sum(2) ; 1.8 V        ; 0 in              ; 0 H/in                  ; 0 F/in                  ; short         ; -                   ; open           ; open             ; open   ; 0 in             ; 0 H/in                 ; 0 F/in                 ; short        ; open          ; open            ; open  ; 0 V                 ; -                  ; n/a           ; n/a             ; n/a         ;
+; Sum(3) ; 1.8 V        ; 0 in              ; 0 H/in                  ; 0 F/in                  ; short         ; -                   ; open           ; open             ; open   ; 0 in             ; 0 H/in                 ; 0 F/in                 ; short        ; open          ; open            ; open  ; 0 V                 ; -                  ; n/a           ; n/a             ; n/a         ;
+; Cout   ; 1.8 V        ; 0 in              ; 0 H/in                  ; 0 F/in                  ; short         ; -                   ; open           ; open             ; open   ; 0 in             ; 0 H/in                 ; 0 F/in                 ; short        ; open          ; open            ; open  ; 0 V                 ; -                  ; n/a           ; n/a             ; n/a         ;
++--------+--------------+-------------------+-------------------------+-------------------------+---------------+---------------------+----------------+------------------+--------+------------------+------------------------+------------------------+--------------+---------------+-----------------+-------+---------------------+--------------------+---------------+-----------------+-------------+
+
+
++-------------------------------------------------------------------+
+; Input Transition Times                                            ;
++----------------+--------------+-----------------+-----------------+
+; Pin            ; I/O Standard ; 10-90 Rise Time ; 90-10 Fall Time ;
++----------------+--------------+-----------------+-----------------+
+; A(0)           ; 1.8 V        ; 1440 ps         ; 1440 ps         ;
+; B(0)           ; 1.8 V        ; 1440 ps         ; 1440 ps         ;
+; Cin            ; 1.8 V        ; 1440 ps         ; 1440 ps         ;
+; A(1)           ; 1.8 V        ; 1440 ps         ; 1440 ps         ;
+; B(1)           ; 1.8 V        ; 1440 ps         ; 1440 ps         ;
+; A(2)           ; 1.8 V        ; 1440 ps         ; 1440 ps         ;
+; B(2)           ; 1.8 V        ; 1440 ps         ; 1440 ps         ;
+; A(3)           ; 1.8 V        ; 1440 ps         ; 1440 ps         ;
+; B(3)           ; 1.8 V        ; 1440 ps         ; 1440 ps         ;
+; ~ALTERA_DATA0~ ; 1.8 V        ; 1440 ps         ; 1440 ps         ;
++----------------+--------------+-----------------+-----------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Signal Integrity Metrics (Slow 900mv 100c Model)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ;
++--------+--------------+---------------------+---------------------+------------------------------+------------------------------+---------------------+---------------------+--------------------------------------+--------------------------------------+-----------------------------+-----------------------------+----------------------------+----------------------------+-----------------------------+-----------------------------+--------------------+--------------------+-------------------------------------+-------------------------------------+----------------------------+----------------------------+---------------------------+---------------------------+
+; Pin    ; I/O Standard ; Board Delay on Rise ; Board Delay on Fall ; Steady State Voh at FPGA Pin ; Steady State Vol at FPGA Pin ; Voh Max at FPGA Pin ; Vol Min at FPGA Pin ; Ringback Voltage on Rise at FPGA Pin ; Ringback Voltage on Fall at FPGA Pin ; 10-90 Rise Time at FPGA Pin ; 90-10 Fall Time at FPGA Pin ; Monotonic Rise at FPGA Pin ; Monotonic Fall at FPGA Pin ; Steady State Voh at Far-end ; Steady State Vol at Far-end ; Voh Max at Far-end ; Vol Min at Far-end ; Ringback Voltage on Rise at Far-end ; Ringback Voltage on Fall at Far-end ; 10-90 Rise Time at Far-end ; 90-10 Fall Time at Far-end ; Monotonic Rise at Far-end ; Monotonic Fall at Far-end ;
++--------+--------------+---------------------+---------------------+------------------------------+------------------------------+---------------------+---------------------+--------------------------------------+--------------------------------------+-----------------------------+-----------------------------+----------------------------+----------------------------+-----------------------------+-----------------------------+--------------------+--------------------+-------------------------------------+-------------------------------------+----------------------------+----------------------------+---------------------------+---------------------------+
+; Sum(0) ; 1.8 V        ; 0 s                 ; 0 s                 ; 1.66 V                       ; 4.43e-06 V                   ; 1.7 V               ; -0.0552 V           ; 0.108 V                              ; 0.08 V                               ; 2.35e-10 s                  ; 2.24e-10 s                  ; No                         ; No                         ; 1.66 V                      ; 4.43e-06 V                  ; 1.7 V              ; -0.0552 V          ; 0.108 V                             ; 0.08 V                              ; 2.35e-10 s                 ; 2.24e-10 s                 ; No                        ; No                        ;
+; Sum(1) ; 1.8 V        ; 0 s                 ; 0 s                 ; 1.66 V                       ; 4.43e-06 V                   ; 1.7 V               ; -0.0552 V           ; 0.108 V                              ; 0.08 V                               ; 2.35e-10 s                  ; 2.24e-10 s                  ; No                         ; No                         ; 1.66 V                      ; 4.43e-06 V                  ; 1.7 V              ; -0.0552 V          ; 0.108 V                             ; 0.08 V                              ; 2.35e-10 s                 ; 2.24e-10 s                 ; No                        ; No                        ;
+; Sum(2) ; 1.8 V        ; 0 s                 ; 0 s                 ; 1.66 V                       ; 4.43e-06 V                   ; 1.7 V               ; -0.0552 V           ; 0.108 V                              ; 0.08 V                               ; 2.35e-10 s                  ; 2.24e-10 s                  ; No                         ; No                         ; 1.66 V                      ; 4.43e-06 V                  ; 1.7 V              ; -0.0552 V          ; 0.108 V                             ; 0.08 V                              ; 2.35e-10 s                 ; 2.24e-10 s                 ; No                        ; No                        ;
+; Sum(3) ; 1.8 V        ; 0 s                 ; 0 s                 ; 1.66 V                       ; 4.43e-06 V                   ; 1.7 V               ; -0.0552 V           ; 0.108 V                              ; 0.08 V                               ; 2.35e-10 s                  ; 2.24e-10 s                  ; No                         ; No                         ; 1.66 V                      ; 4.43e-06 V                  ; 1.7 V              ; -0.0552 V          ; 0.108 V                             ; 0.08 V                              ; 2.35e-10 s                 ; 2.24e-10 s                 ; No                        ; No                        ;
+; Cout   ; 1.8 V        ; 0 s                 ; 0 s                 ; 1.66 V                       ; 4.43e-06 V                   ; 1.7 V               ; -0.0552 V           ; 0.108 V                              ; 0.08 V                               ; 2.35e-10 s                  ; 2.24e-10 s                  ; No                         ; No                         ; 1.66 V                      ; 4.43e-06 V                  ; 1.7 V              ; -0.0552 V          ; 0.108 V                             ; 0.08 V                              ; 2.35e-10 s                 ; 2.24e-10 s                 ; No                        ; No                        ;
++--------+--------------+---------------------+---------------------+------------------------------+------------------------------+---------------------+---------------------+--------------------------------------+--------------------------------------+-----------------------------+-----------------------------+----------------------------+----------------------------+-----------------------------+-----------------------------+--------------------+--------------------+-------------------------------------+-------------------------------------+----------------------------+----------------------------+---------------------------+---------------------------+
+
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Signal Integrity Metrics (Fast 900mv n40c Model)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ;
++--------+--------------+---------------------+---------------------+------------------------------+------------------------------+---------------------+---------------------+--------------------------------------+--------------------------------------+-----------------------------+-----------------------------+----------------------------+----------------------------+-----------------------------+-----------------------------+--------------------+--------------------+-------------------------------------+-------------------------------------+----------------------------+----------------------------+---------------------------+---------------------------+
+; Pin    ; I/O Standard ; Board Delay on Rise ; Board Delay on Fall ; Steady State Voh at FPGA Pin ; Steady State Vol at FPGA Pin ; Voh Max at FPGA Pin ; Vol Min at FPGA Pin ; Ringback Voltage on Rise at FPGA Pin ; Ringback Voltage on Fall at FPGA Pin ; 10-90 Rise Time at FPGA Pin ; 90-10 Fall Time at FPGA Pin ; Monotonic Rise at FPGA Pin ; Monotonic Fall at FPGA Pin ; Steady State Voh at Far-end ; Steady State Vol at Far-end ; Voh Max at Far-end ; Vol Min at Far-end ; Ringback Voltage on Rise at Far-end ; Ringback Voltage on Fall at Far-end ; 10-90 Rise Time at Far-end ; 90-10 Fall Time at Far-end ; Monotonic Rise at Far-end ; Monotonic Fall at Far-end ;
++--------+--------------+---------------------+---------------------+------------------------------+------------------------------+---------------------+---------------------+--------------------------------------+--------------------------------------+-----------------------------+-----------------------------+----------------------------+----------------------------+-----------------------------+-----------------------------+--------------------+--------------------+-------------------------------------+-------------------------------------+----------------------------+----------------------------+---------------------------+---------------------------+
+; Sum(0) ; 1.8 V        ; 0 s                 ; 0 s                 ; 1.89 V                       ; 1.62e-07 V                   ; 2.04 V              ; -0.201 V            ; 0.161 V                              ; 0.176 V                              ; 1.26e-10 s                  ; 1.19e-10 s                  ; No                         ; No                         ; 1.89 V                      ; 1.62e-07 V                  ; 2.04 V             ; -0.201 V           ; 0.161 V                             ; 0.176 V                             ; 1.26e-10 s                 ; 1.19e-10 s                 ; No                        ; No                        ;
+; Sum(1) ; 1.8 V        ; 0 s                 ; 0 s                 ; 1.89 V                       ; 1.62e-07 V                   ; 2.04 V              ; -0.201 V            ; 0.161 V                              ; 0.176 V                              ; 1.26e-10 s                  ; 1.19e-10 s                  ; No                         ; No                         ; 1.89 V                      ; 1.62e-07 V                  ; 2.04 V             ; -0.201 V           ; 0.161 V                             ; 0.176 V                             ; 1.26e-10 s                 ; 1.19e-10 s                 ; No                        ; No                        ;
+; Sum(2) ; 1.8 V        ; 0 s                 ; 0 s                 ; 1.89 V                       ; 1.62e-07 V                   ; 2.04 V              ; -0.201 V            ; 0.161 V                              ; 0.176 V                              ; 1.26e-10 s                  ; 1.19e-10 s                  ; No                         ; No                         ; 1.89 V                      ; 1.62e-07 V                  ; 2.04 V             ; -0.201 V           ; 0.161 V                             ; 0.176 V                             ; 1.26e-10 s                 ; 1.19e-10 s                 ; No                        ; No                        ;
+; Sum(3) ; 1.8 V        ; 0 s                 ; 0 s                 ; 1.89 V                       ; 1.62e-07 V                   ; 2.04 V              ; -0.201 V            ; 0.161 V                              ; 0.176 V                              ; 1.26e-10 s                  ; 1.19e-10 s                  ; No                         ; No                         ; 1.89 V                      ; 1.62e-07 V                  ; 2.04 V             ; -0.201 V           ; 0.161 V                             ; 0.176 V                             ; 1.26e-10 s                 ; 1.19e-10 s                 ; No                        ; No                        ;
+; Cout   ; 1.8 V        ; 0 s                 ; 0 s                 ; 1.89 V                       ; 1.62e-07 V                   ; 2.04 V              ; -0.201 V            ; 0.161 V                              ; 0.176 V                              ; 1.26e-10 s                  ; 1.19e-10 s                  ; No                         ; No                         ; 1.89 V                      ; 1.62e-07 V                  ; 2.04 V             ; -0.201 V           ; 0.161 V                             ; 0.176 V                             ; 1.26e-10 s                 ; 1.19e-10 s                 ; No                        ; No                        ;
++--------+--------------+---------------------+---------------------+------------------------------+------------------------------+---------------------+---------------------+--------------------------------------+--------------------------------------+-----------------------------+-----------------------------+----------------------------+----------------------------+-----------------------------+-----------------------------+--------------------+--------------------+-------------------------------------+-------------------------------------+----------------------------+----------------------------+---------------------------+---------------------------+
+
+
+-------------------
+; Clock Transfers ;
+-------------------
+Nothing to report.
+
+
++--------------------------+
+; Timing Analyzer Messages ;
++--------------------------+
+Info (20030): Parallel compilation is enabled and will use 4 of the 4 processors detected
+Info: *******************************************************************
+Info: Running Quartus Prime Timing Analyzer
+    Info: Version 19.4.0 Build 64 12/04/2019 SC Pro Edition
+    Info: Processing started: Mon Sep  7 02:37:54 2020
+    Info: System process ID: 2788
+Info: Command: quartus_sta AAC2M3P3 -c AAC2M3P3 --mode=finalize
+Info: qsta_default_script.tcl version: #1
+Info (16677): Loading final database
+Info (16734): Loading "final" snapshot for partition "root_partition".
+Info (16678): Successfully loaded final database: elapsed time is 00:00:02
+Info (21077): Low junction temperature is -40 degrees C
+Info (21077): High junction temperature is 100 degrees C
+Info (19539): Reading the HDL-embedded SDC files elapsed 00:00:00.
+Critical Warning (332012): Synopsys Design Constraints File file not found: 'AAC2M3P3.sdc'. A Synopsys Design Constraints File is required by the Timing Analyzer to get proper timing constraints. Without it, the Compiler will not properly optimize the design.
+Info (19449): Reading SDC files elapsed 00:00:00.
+Critical Warning (19317): No user constrained base clocks found in the design. Calling "derive_clocks -period 1.0"
+Info (332096): The command derive_clocks did not find any clocks to derive.  No clocks were created or changed.
+Warning (332068): No clocks defined in design.
+Info (332143): No user constrained clock uncertainty found in the design. Calling "derive_clock_uncertainty"
+Info (332154): The derive_clock_uncertainty command did not apply clock uncertainty to any clock-to-clock transfers.
+Info: Found TIMING_ANALYZER_REPORT_SCRIPT_INCLUDE_DEFAULT_ANALYSIS = ON
+Info (332159): No clocks to report
+Info: Analyzing Slow 900mV 100C Model
+Info (332140): No fmax paths to report
+Info (332140): No Setup paths to report
+Info (332140): No Hold paths to report
+Info (332140): No Recovery paths to report
+Info (332140): No Removal paths to report
+Info (332140): No Minimum Pulse Width paths to report
+Info: Analyzing Slow 900mV -40C Model
+Info (332140): No fmax paths to report
+Info (332140): No Setup paths to report
+Info (332140): No Hold paths to report
+Info (332140): No Recovery paths to report
+Info (332140): No Removal paths to report
+Info (332140): No Minimum Pulse Width paths to report
+Info: Analyzing Fast 900mV 100C Model
+Info (332140): No Setup paths to report
+Info (332140): No Hold paths to report
+Info (332140): No Recovery paths to report
+Info (332140): No Removal paths to report
+Info (332140): No Minimum Pulse Width paths to report
+Info: Analyzing Fast 900mV -40C Model
+Info (332140): No Setup paths to report
+Info (332140): No Hold paths to report
+Info (332140): No Recovery paths to report
+Info (332140): No Removal paths to report
+Info (332140): No Minimum Pulse Width paths to report
+Info (332102): Design is not fully constrained for setup requirements
+Info (332102): Design is not fully constrained for hold requirements
+Info: Quartus Prime Timing Analyzer was successful. 0 errors, 3 warnings
+    Info: Peak virtual memory: 1933 megabytes
+    Info: Processing ended: Mon Sep  7 02:38:02 2020
+    Info: Elapsed time: 00:00:08
+    Info: System process ID: 2788
+
+
++------------------------------------------------+
+; Unconstrained Paths Summary                    ;
++---------------------------------+-------+------+
+; Property                        ; Setup ; Hold ;
++---------------------------------+-------+------+
+; Illegal Clocks                  ; 0     ; 0    ;
+; Unconstrained Clocks            ; 0     ; 0    ;
+; Unconstrained Input Ports       ; 9     ; 9    ;
+; Unconstrained Input Port Paths  ; 33    ; 33   ;
+; Unconstrained Output Ports      ; 5     ; 5    ;
+; Unconstrained Output Port Paths ; 33    ; 33   ;
++---------------------------------+-------+------+
+
+
++---------------------------------------------------------------------------------------------------+
+; Unconstrained Input Ports                                                                         ;
++------------+--------------------------------------------------------------------------------------+
+; Input Port ; Comment                                                                              ;
++------------+--------------------------------------------------------------------------------------+
+; A[0]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; A[1]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; A[2]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; A[3]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; B[0]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; B[1]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; B[2]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; B[3]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; Cin        ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
++------------+--------------------------------------------------------------------------------------+
+
+
++-----------------------------------------------------------------------------------------------------+
+; Unconstrained Output Ports                                                                          ;
++-------------+---------------------------------------------------------------------------------------+
+; Output Port ; Comment                                                                               ;
++-------------+---------------------------------------------------------------------------------------+
+; Cout        ; No output delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; Sum[0]      ; No output delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; Sum[1]      ; No output delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; Sum[2]      ; No output delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; Sum[3]      ; No output delay, min/max delays, false-path exceptions, or max skew assignments found ;
++-------------+---------------------------------------------------------------------------------------+
+
+
++---------------------------------------------------------------------------------------------------+
+; Unconstrained Input Ports                                                                         ;
++------------+--------------------------------------------------------------------------------------+
+; Input Port ; Comment                                                                              ;
++------------+--------------------------------------------------------------------------------------+
+; A[0]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; A[1]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; A[2]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; A[3]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; B[0]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; B[1]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; B[2]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; B[3]       ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; Cin        ; No input delay, min/max delays, false-path exceptions, or max skew assignments found ;
++------------+--------------------------------------------------------------------------------------+
+
+
++-----------------------------------------------------------------------------------------------------+
+; Unconstrained Output Ports                                                                          ;
++-------------+---------------------------------------------------------------------------------------+
+; Output Port ; Comment                                                                               ;
++-------------+---------------------------------------------------------------------------------------+
+; Cout        ; No output delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; Sum[0]      ; No output delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; Sum[1]      ; No output delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; Sum[2]      ; No output delay, min/max delays, false-path exceptions, or max skew assignments found ;
+; Sum[3]      ; No output delay, min/max delays, false-path exceptions, or max skew assignments found ;
++-------------+---------------------------------------------------------------------------------------+
+
+
++----------------------------------------------------------------------------+
+; Multicorner Timing Analysis Summary                                        ;
++------------------+-------+------+----------+---------+---------------------+
+; Clock            ; Setup ; Hold ; Recovery ; Removal ; Minimum Pulse Width ;
++------------------+-------+------+----------+---------+---------------------+
+; Worst-case Slack ; N/A   ; N/A  ; N/A      ; N/A     ; N/A                 ;
+; Design-wide TNS  ; 0.0   ; 0.0  ; 0.0      ; 0.0     ; 0.0                 ;
++------------------+-------+------+----------+---------+---------------------+
+
+

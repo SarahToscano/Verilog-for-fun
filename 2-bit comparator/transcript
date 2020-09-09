@@ -1,0 +1,34 @@
+# Compile of AAC2M3P1.v failed with 2 errors.
+# Compile of AAC2M3P1_tb.vp was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of AAC2M3P1.v failed with 1 errors.
+# Compile of AAC2M3P1.v failed with 1 errors.
+# Compile of AAC2M3P1.v failed with 1 errors.
+# Compile of AAC2M3P1.v was successful.
+vsim -gui work.AAC2M3P1_tb
+# vsim -gui work.AAC2M3P1_tb 
+# Start time: 01:49:20 on Sep 07,2020
+# Loading work.AAC2M3P1_tb
+# Loading work.Comparator2
+add wave -position end  sim:/AAC2M3P1_tb/delay
+add wave -position end  sim:/AAC2M3P1_tb/a_tb
+add wave -position end  sim:/AAC2M3P1_tb/b_tb
+add wave -position end  sim:/AAC2M3P1_tb/y_tb
+add wave -position end  sim:/AAC2M3P1_tb/i
+add wave -position end  sim:/AAC2M3P1_tb/j
+add wave -position end  sim:/AAC2M3P1_tb/ErrorCount
+add wave -position end  sim:/AAC2M3P1_tb/score
+add wave -position end  sim:/AAC2M3P1_tb/FirstError
+add wave -position end  sim:/AAC2M3P1_tb/ValidCheck
+add wave -position end  sim:/AAC2M3P1_tb/testresults
+add wave -position end  sim:/AAC2M3P1_tb/vector
+add wave -position end  sim:/AAC2M3P1_tb/address
+add wave -position end  sim:/AAC2M3P1_tb/data
+add wave -position end  sim:/AAC2M3P1_tb/rom
+run -all
+# This simulation is complete
+# ** Note: $stop    : C:/Users/HP/Downloads/AAC2M3P1/AAC2M3P1_tb.vp(113)
+#    Time: 170 ns  Iteration: 0  Instance: /AAC2M3P1_tb
+# Break in Module AAC2M3P1_tb in file C:/Users/HP/Downloads/AAC2M3P1/AAC2M3P1_tb.vp
+# End time: 01:51:55 on Sep 07,2020, Elapsed time: 0:02:35
+# Errors: 0, Warnings: 0

@@ -1,0 +1,43 @@
+# Compile of AAC2M4P2.v was successful.
+# Compile of AAC2M4P2_tb.vp was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.AAC2M4P2_tb
+# vsim -gui work.AAC2M4P2_tb 
+# Start time: 02:33:39 on Sep 08,2020
+# Loading work.AAC2M4P2_tb
+# Loading work.RAM128x32
+# Trace back: Error QStructure::sort: invalid command name ""
+#   <6:proc:11: ::QStructure::sort .main_pane.structure 0 ascending
+#   <5:eval:1: ::QStructure::structsort .main_pane.structure 0 ascending
+#   <4:eval:1: ::namespace inscope ::QStructure {structsort .main_pane.structure} 0 ascending
+#   >3:proc:26: ::.main_pane.structure.interior.cs.body.struct sort 0 ascending
+#   >2:proc:10: ::.main_pane.structure.interior.cs.body.struct _initializeSortColumn
+#   <1:eval:1: ::namespace inscope ::vsimwidgets::Hierarchy {::.main_pane.structure.interior.cs.body.struct _initializeSortColumn}
+add wave -position end  sim:/AAC2M4P2_tb/delay
+add wave -position end  sim:/AAC2M4P2_tb/clk_period
+add wave -position end  sim:/AAC2M4P2_tb/data_width
+add wave -position end  sim:/AAC2M4P2_tb/address_width
+add wave -position end  sim:/AAC2M4P2_tb/clock_tb
+add wave -position end  sim:/AAC2M4P2_tb/we_tb
+add wave -position end  sim:/AAC2M4P2_tb/address_tb
+add wave -position end  sim:/AAC2M4P2_tb/d_tb
+add wave -position end  sim:/AAC2M4P2_tb/q_tb
+add wave -position end  sim:/AAC2M4P2_tb/i
+add wave -position end  sim:/AAC2M4P2_tb/j
+add wave -position end  sim:/AAC2M4P2_tb/k
+add wave -position end  sim:/AAC2M4P2_tb/ErrorCount
+add wave -position end  sim:/AAC2M4P2_tb/score
+add wave -position end  sim:/AAC2M4P2_tb/FirstError
+add wave -position end  sim:/AAC2M4P2_tb/ValidCheck
+add wave -position end  sim:/AAC2M4P2_tb/testresults
+add wave -position end  sim:/AAC2M4P2_tb/vector
+add wave -position end  sim:/AAC2M4P2_tb/address
+add wave -position end  sim:/AAC2M4P2_tb/data
+add wave -position end  sim:/AAC2M4P2_tb/rom
+run -all
+# This simulation is complete
+# ** Note: $stop    : C:/Users/HP/Downloads/AAC2M4P2/AAC2M4P2_tb.vp(122)
+#    Time: 153611 ns  Iteration: 0  Instance: /AAC2M4P2_tb
+# Break in Module AAC2M4P2_tb in file C:/Users/HP/Downloads/AAC2M4P2/AAC2M4P2_tb.vp
+# End time: 02:38:34 on Sep 08,2020, Elapsed time: 0:04:55
+# Errors: 14, Warnings: 0
